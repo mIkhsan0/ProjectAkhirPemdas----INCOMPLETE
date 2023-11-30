@@ -1,0 +1,117 @@
+PlayerAnimation.png
+size: 224, 18
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Basic Charakter Spritesheet
+  rotate: false
+  xy: 1, 1
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: 0
+Basic Charakter Spritesheet
+  rotate: false
+  xy: 17, 1
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: 1
+Basic Charakter Spritesheet
+  rotate: false
+  xy: 33, 1
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: 2
+Basic Charakter Spritesheet
+  rotate: false
+  xy: 49, 1
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: 3
+Basic Charakter Spritesheet
+  rotate: false
+  xy: 65, 1
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: 4
+Basic Charakter Spritesheet
+  rotate: false
+  xy: 81, 1
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: 5
+Basic Charakter Spritesheet
+  rotate: false
+  xy: 97, 1
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: 6
+Basic Charakter Spritesheet
+  rotate: false
+  xy: 113, 1
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: 7
+Basic Charakter Spritesheet
+  rotate: false
+  xy: 129, 1
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: 8
+Basic Charakter Spritesheet
+  rotate: false
+  xy: 141, 1
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: 9
+Basic Charakter Spritesheet
+  rotate: false
+  xy: 153, 1
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: 10
+Basic Charakter Spritesheet
+  rotate: false
+  xy: 165, 1
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: 11
+Basic Charakter Spritesheet
+  rotate: false
+  xy: 177, 1
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: 12
+Basic Charakter Spritesheet
+  rotate: false
+  xy: 189, 1
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: 13
+Basic Charakter Spritesheet
+  rotate: false
+  xy: 201, 1
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: 14
+Basic Charakter Spritesheet
+  rotate: false
+  xy: 213, 1
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: 15

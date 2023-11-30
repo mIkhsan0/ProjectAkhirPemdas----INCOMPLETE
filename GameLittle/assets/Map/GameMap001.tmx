@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.10.2" orientation="orthogonal" renderorder="right-up" width="120" height="80" tilewidth="16" tileheight="16" infinite="0" nextlayerid="24" nextobjectid="203">
+ <tileset firstgid="1" source="../Map/Water.tsx"/>
+ <tileset firstgid="5" source="../Map/Grass.tsx"/>
+ <tileset firstgid="85" source="../Map/Basic Grass Biom things 1.tsx"/>
+ <tileset firstgid="130" source="../Map/Paths.tsx"/>
+ <tileset firstgid="146" source="../Map/Wooden House.tsx"/>
+ <tileset firstgid="181" source="../Map/Basic Furniture.tsx"/>
+ <tileset firstgid="235" source="../Map/Tilled Dirt.tsx"/>
+ <tileset firstgid="299" source="../Map/Basic Plants.tsx"/>
+ <tileset firstgid="311" source="../Map/Hills.tsx"/>
+ <tileset firstgid="347" source="../Map/Chest.tsx"/>
+ <tileset firstgid="437" source="../Map/Wood Bridge.tsx"/>
+ <tileset firstgid="452" source="../Map/Fences.tsx"/>
+ <layer id="1" name="Ocean" width="120" height="80">
+  <data encoding="base64" compression="zlib">
+   eJzt0bENADAMwzAn/x/dEzoWNThw0KxJMgAAAAAAAAAAAAAAAAAAAAAAAAA8sZfmb3728rbX+gsAAAAAAAAAAAAAAAAAAABQ5wCkmSWH
+  </data>
+ </layer>
+ <objectgroup id="18" name="Spawn Point">
+  <object id="149" x="600" y="487">
+   <properties>
+    <property name="spawnPoint" value=""/>
+   </properties>
+   <point/>
+  </object>
+ </objectgroup>
+ <layer id="13" name="Ocean Stuff" width="120" height="80">
+  <data encoding="base64" compression="zlib">
+   eJzt1jkKACAAA8G83OPngr2VoIIzZaotkwAAAAAAAAAAAAAAAAAAvK8k7XYDwE/aYq8nI4At3X8CAAAAAAAAAAAAAAAAAAAAAAAAAIBpAOThAv8=
+  </data>
+ </layer>
+ <objectgroup id="15" name="Ocean Border">
+  <object id="155" x="656" y="432">
+   <polyline points="0,0 16,0 16,-96 32,-96 32,-112 112,-112 112,-96 160,-96 160,-80 176,-80 176,-64 208,-64 208,-48 224,-48 224,32 208,32 208,48 176,48 176,80 160,80 160,96 144,96 128,96 128,112 64,112 64,96 32,96 32,80 16,80 16,64 0,64 0,80 -16,80 -16,96 -128,96 -128,80 -144,80 -144,64 -144,48 -160,48 -160,32 -176,32 -176,-16 -192,-16 -192,-112 -176,-112 -176,-128 -160,-128 -160,-144 -48,-144 -48,-128 -32,-128 -32,-112 -32,-96 0,-96 0,0"/>
+  </object>
+ </objectgroup>
+ <layer id="2" name="Land" width="120" height="80">
+  <data encoding="base64" compression="zlib">
+   eJzt10FOwzAQBdBZ0YoVAo4ALKGwosDhODrOwpIV2W5URcSF96RZtImlVN8zTiMAAAAAAAAAAPivHlI9Vuppy4diFVO2X6leKvUZMr5kvWxzHRrr9Pn4nqOfbe7hMsPansj3yHosrXzvK98dTqwx08dTy2of8d2b0+f0PNtYktU5+erlMbynekt1F+vle91YxzZyXrexfv/Kd3tL88pn6qn/U/IdS57Ru8Z71bxuOtf2s8+vqT5+8bdQlzOuZVaezVcL98CU6zFkO5LenJ7O5pxZax+U/W0mj6fs4V2052yv183ksU3ZHSs1zyvfV+ZsJv895X6QKwAAAAAAAAAAAAAAAAAAAAAAAAAAAJfoBzDxOBQ=
+  </data>
+ </layer>
+ <objectgroup id="16" name="Hills Border"/>
+ <layer id="10" name="Hills" width="120" height="80">
+  <data encoding="base64" compression="zlib">
+   eJzt0yEOg0AUBNC/J8JCBa0oODBw/7OwhFUFgWTT95JRIycTAQAAAAAAAAAAADxdmyK6kle631GHPu/2Lvmkc9fEkd+OOnzzbkPJaN+/su875cwX36Z++7eXnPXi2wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8ywYUogf3
+  </data>
+ </layer>
+ <objectgroup id="20" name="Hill1">
+  <object id="164" x="704" y="416">
+   <polyline points="4,0 -16,0 -16,-80 48,-80 46.6667,0 26.6667,0"/>
+  </object>
+  <object id="187" x="708" y="416">
+   <polyline points="0,0 0,-16 -20,-16"/>
+  </object>
+  <object id="188" x="730.333" y="416">
+   <polyline points="0,0 0,-16 21.6667,-16"/>
+  </object>
+ </objectgroup>
+ <objectgroup id="21" name="Hill2">
+  <object id="165" x="640" y="384">
+   <polyline points="0,0 -64,0 -64,-48 0,-48 0,0"/>
+  </object>
+ </objectgroup>
+ <objectgroup id="4" name="Natures">
+  <object id="3" gid="106" x="597.5" y="516" width="16" height="16"/>
+  <object id="4" gid="100" x="630.25" y="503.75" width="16" height="16"/>
+  <object id="5" gid="99" x="615.25" y="521" width="16" height="16"/>
+  <object id="6" gid="113" x="614" y="508" width="16" height="16"/>
+  <object id="11" gid="99" x="535.5" y="506.5" width="16" height="16"/>
+  <object id="24" gid="97" x="484.25" y="452.75" width="16" height="16"/>
+  <object id="25" gid="98" x="500.25" y="452.5" width="16" height="16"/>
+  <object id="27" gid="88" x="484.25" y="436.75" width="16" height="16"/>
+  <object id="28" gid="89" x="500.25" y="436.75" width="16" height="16"/>
+  <object id="54" gid="110" x="637.638" y="454.73" width="11.0623" height="12.1237" rotation="359.902"/>
+  <object id="55" gid="21" x="627.625" y="453.75" width="16" height="16"/>
+  <object id="56" gid="11" x="683.125" y="465.625" width="16" height="16"/>
+  <object id="57" gid="21" x="590.5" y="367.75" width="16" height="16"/>
+  <object id="58" gid="21" x="583" y="364.25" width="16" height="16"/>
+  <object id="74" gid="94" x="728.625" y="358.875" width="16" height="16"/>
+  <object id="106" gid="94" x="540.625" y="350.125" width="16" height="16"/>
+  <object id="75" gid="85" x="728.625" y="343.125" width="16" height="16"/>
+  <object id="108" gid="85" x="540.625" y="334.375" width="16" height="16"/>
+  <object id="76" gid="113" x="713.5" y="356.75" width="16" height="16"/>
+  <object id="107" gid="113" x="631" y="396.625" width="16" height="16"/>
+  <object id="77" gid="99" x="723" y="367.125" width="16" height="16"/>
+  <object id="78" gid="106" x="731.875" y="370.375" width="16" height="16"/>
+  <object id="79" gid="110" x="728.125" y="382.625" width="16" height="16"/>
+  <object id="80" gid="21" x="730.25" y="396.25" width="16" height="16"/>
+  <object id="81" gid="21" x="724.125" y="399.75" width="16" height="16"/>
+  <object id="84" gid="99" x="841.5" y="388.5" width="16" height="16"/>
+  <object id="88" gid="106" x="686" y="433.25" width="16" height="16"/>
+  <object id="89" gid="99" x="696.5" y="519.75" width="16" height="16"/>
+  <object id="94" gid="11" x="784" y="478.75" width="16" height="16"/>
+  <object id="95" gid="113" x="803.5" y="432" width="16" height="16"/>
+  <object id="96" gid="99" x="786.5" y="436" width="16" height="16"/>
+  <object id="97" gid="99" x="812" y="445.25" width="16" height="16"/>
+  <object id="98" gid="110" x="486.25" y="336" width="16" height="16"/>
+  <object id="99" gid="99" x="494.5" y="329.75" width="16" height="16"/>
+  <object id="100" gid="106" x="562" y="345.25" width="16" height="16"/>
+  <object id="101" gid="106" x="553.75" y="337" width="16" height="16"/>
+  <object id="102" gid="113" x="569.25" y="330.75" width="16" height="16"/>
+  <object id="103" gid="112" x="551.75" y="320.25" width="16" height="16"/>
+  <object id="109" gid="99" x="618.727" y="399.091" width="16" height="16"/>
+  <object id="110" gid="99" x="566.364" y="401.818" width="16" height="16"/>
+  <object id="111" gid="99" x="555.636" y="391.455" width="16" height="16"/>
+  <object id="114" gid="113" x="522.182" y="416.303" width="16" height="16"/>
+  <object id="116" gid="99" x="546" y="356.545" width="16" height="16"/>
+ </objectgroup>
+ <layer id="5" name="Land Manmade" width="120" height="80">
+  <data encoding="base64" compression="zlib">
+   eJzt2D0KwkAURtEJqFW0UhfiT+3W3IqLsLEXLQTRFfkgFkECiogThnPgY1IkELipkhIAAAAAAAAAAADQB4MqpWFroyr3G/FLdfRcxFaxdWzy0ndTNXvnGPfcnzv5Rnqjbrpux3EuO/p+6lx1X5PXNFrMWpt/2ebyfO4W51VfyGbXMcqhb9n0BQDIb++fRtEO+hZN37LpWzZ9y6YvAAAAAAAAAAAAAAAAAAAAAAAAwP88AInKF9w=
+  </data>
+ </layer>
+ <layer id="3" name="Building" width="120" height="80">
+  <data encoding="base64" compression="zlib">
+   eJzt0TsKgDAQBcCc3sbSyk8RbNRbmoCl6YwBnYHHsls92BAAAAAAAAAAAAAAAIBsTJluMrcsxWNi4b6+WYJqYuHuv9+wpewpQ8pyzbwfLUtRRde6AFX1rQsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAL91AuUYDC4=
+  </data>
+ </layer>
+ <objectgroup id="22" name="Wall1">
+  <object id="183" x="803.333" y="416.333">
+   <polygon points="0,0 0.333333,15.3333 17,15.3333 16.6667,-1"/>
+  </object>
+  <object id="186" x="575.067" y="464">
+   <polyline points="0,0 -35.7333,0 -35.7333,-48 -35.7333,-64 53.6,-64 53.6,0 17.8667,0"/>
+  </object>
+  <object id="194" x="816.667" y="396">
+   <polygon points="0,0 0.333333,5.66667 6,4.66667 5.66667,-6 0.666667,-6.33333"/>
+  </object>
+  <object id="195" x="824.667" y="390.667">
+   <polygon points="0,0 10.3333,0 10.3333,-15 -0.333333,-15"/>
+  </object>
+ </objectgroup>
+ <objectgroup id="19" name="Fence1">
+  <object id="159" x="768" y="400">
+   <polyline points="-4.33333,-3.66667 -4.33333,-35.3333 35,-35 35,-16 19.3333,-16 19.6667,-3.66667 44.3333,-3.66667 44,-47.3333 -12.3333,-48 -12,-3.33333 -4.33333,-3.66667"/>
+  </object>
+ </objectgroup>
+ <layer id="6" name="Furniture" width="120" height="80">
+  <data encoding="base64" compression="zlib">
+   eJztzqENACAQBMHvvyA0Fg0FgfwCCI+YSS45uREAAAAAAAAAAAAAAEDW0u9VETwxqgO4ap6t6ggAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC+swHXsAPn
+  </data>
+ </layer>
+ <objectgroup id="8" name="Decoration">
+  <object id="8" gid="184" x="543.5" y="496.25" width="16" height="16"/>
+  <object id="9" gid="186" x="549.75" y="482.5" width="16" height="16"/>
+  <object id="10" gid="185" x="539.75" y="478" width="16" height="16"/>
+  <object id="82" gid="184" x="821.25" y="392" width="16" height="16"/>
+  <object id="83" gid="2147483834" x="812" y="404.25" width="16" height="16"/>
+  <object id="85" gid="2147483668" x="825.25" y="407.75" width="16" height="16"/>
+  <object id="86" gid="185" x="854.25" y="442" width="16" height="16"/>
+  <object id="87" gid="186" x="845.75" y="452" width="16" height="16"/>
+ </objectgroup>
+ <objectgroup id="23" name="MultipleBorder">
+  <object id="168" x="560" y="468.333">
+   <polyline points="0,0 0,10.6667 -5.66667,10.6667 -5.66667,0 0,0"/>
+  </object>
+  <object id="170" x="697.333" y="429.091">
+   <polygon points="0,0 -7,0.242424 -7,-7.51515 -0.972222,-7.75758"/>
+  </object>
+  <object id="173" x="608.333" y="508.073">
+   <polygon points="0,0 0,3.59375 -6,3.59375 -5.64706,-4.07292 -0.176471,-3.59375"/>
+  </object>
+  <object id="175" x="544" y="352">
+   <polyline points="0,-6 0,-48 48,-48 48,-16 32,-16 32,0 32,-10 16,-10 9.33333,-9.66667 10,-5.33333 0,-5"/>
+  </object>
+  <object id="176" x="614.333" y="504.9">
+   <polygon points="0,0 0.283019,-12.9 13.8679,-12.6133 15,1.43333"/>
+  </object>
+  <object id="177" x="510.333" y="451.667">
+   <polygon points="0.333333,-1.66667 -23.3333,-2 -22,-27.3333 0.666667,-27.3333"/>
+  </object>
+  <object id="178" x="528.667" y="416.333">
+   <polygon points="0,0 -6.66667,-1 -6,-17.3333 10,-16.3333 10,-1.33333"/>
+  </object>
+  <object id="179" x="630.107" y="386.56">
+   <polygon points="1.39881,-6.89333 0.559524,8.77333 16.2262,8.46 15.9464,-5.32667"/>
+  </object>
+  <object id="189" x="713" y="344">
+   <polygon points="0,0 1,10.6667 15.3333,11 16,-1 8,-3.66667"/>
+  </object>
+  <object id="190" x="730.667" y="353.667">
+   <polygon points="0,0 11.6667,0 12,-14.3333 -0.333333,-13.6667"/>
+  </object>
+  <object id="191" x="736.667" y="360.667">
+   <polygon points="0,0 -0.333333,5.33333 7,6 6.33333,-1.66667"/>
+  </object>
+  <object id="192" x="558.667" y="487.333">
+   <polygon points="-0.666667,1 -1.33333,6.33333 -12,7.33333 -12.6667,-7 -1.66667,-6.66667"/>
+  </object>
+  <object id="193" x="551.667" y="472.333">
+   <polygon points="0,0 -6,3.33333 -7.33333,-5.33333 -1.33333,-7"/>
+  </object>
+  <object id="196" x="849" y="443.333">
+   <polygon points="0,0 0.666667,5.33333 8,5.66667 8,-2 8,-7 0.333333,-6"/>
+  </object>
+  <object id="197" x="859.667" y="440.333">
+   <polygon points="0,0 5.66667,-1 6,-12 -2,-11.3333"/>
+  </object>
+  <object id="198" x="576" y="464">
+   <polyline points="1.33333,0 1.33333,-16 -32,-16 -32,-48 48,-48 48,-16 14.6667,-16 14.6667,0"/>
+  </object>
+  <object id="199" x="573.333" y="444.333">
+   <polygon points="-0.666667,-1 -0.333333,-10 -11,-10 -11.3333,-1.33333"/>
+  </object>
+  <object id="200" x="558.035" y="446.667">
+   <polygon points="0.333333,-0.666667 0.297872,-13 -13.0355,-13.0889 -13.7021,-0.866667"/>
+  </object>
+  <object id="201" x="592.333" y="418.667">
+   <polygon points="0,0 0.333333,5 15.3333,4.66667 16,-2"/>
+  </object>
+  <object id="202" x="607.667" y="426">
+   <polygon points="0,0 0.333333,6 15,6.33333 15.3333,-9.66667 0.333333,-9.33333"/>
+  </object>
+ </objectgroup>
+ <objectgroup id="12" name="Buildings"/>
+ <objectgroup id="11" name="Interact">
+  <object id="63" gid="363" x="592.5" y="356.5" width="16" height="16"/>
+  <object id="69" gid="441" x="688.313" y="362.25" width="16" height="16"/>
+  <object id="70" gid="440" x="672.375" y="362.25" width="16" height="16"/>
+  <object id="71" gid="440" x="656.438" y="362.25" width="16" height="16"/>
+  <object id="72" gid="440" x="640.5" y="362.25" width="16" height="16"/>
+  <object id="73" gid="439" x="624.5" y="362.25" width="16" height="16"/>
+ </objectgroup>
+ <objectgroup id="7" name="Storage">
+  <object id="7" gid="202" x="592.25" y="422.75" width="16" height="16"/>
+ </objectgroup>
+</map>

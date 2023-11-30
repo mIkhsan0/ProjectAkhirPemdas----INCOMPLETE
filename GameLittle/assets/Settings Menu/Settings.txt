@@ -1,0 +1,19 @@
+Settings.png
+size: 216, 124
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Setting menu
+  rotate: false
+  xy: 1, 1
+  size: 106, 122
+  orig: 106, 122
+  offset: 0, 0
+  index: 0
+Setting menu
+  rotate: false
+  xy: 109, 1
+  size: 106, 122
+  orig: 106, 122
+  offset: 0, 0
+  index: 1

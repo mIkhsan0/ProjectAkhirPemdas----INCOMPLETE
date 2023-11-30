@@ -1,0 +1,2217 @@
+UI.png
+size: 1832, 64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 570, 31
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: 0
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 772, 1
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: 1
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 800, 1
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: 2
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 474, 1
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: 3
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 474, 33
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: 4
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1108, 36
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: 5
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1752, 25
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: 6
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1766, 25
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: 7
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1780, 25
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: 8
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 713, 43
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: 9
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 437, 44
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: 10
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1202, 45
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: 11
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1164, 45
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: 12
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1309, 25
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: 13
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1734, 25
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: 14
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1130, 17
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: 15
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1151, 17
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: 16
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1172, 17
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: 17
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 598, 43
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: 18
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 621, 43
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: 19
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 644, 43
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: 20
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 997, 45
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: 21
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1269, 25
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 22
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1019, 45
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: 23
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1144, 45
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 24
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1040, 21
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: 25
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1289, 25
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: 26
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1794, 25
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: 27
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1345, 41
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: 28
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1344, 50
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: 29
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1358, 50
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: 30
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 602, 1
+  size: 48, 7
+  orig: 48, 7
+  offset: 0, 0
+  index: 31
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 927, 53
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: 32
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 938, 53
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: 33
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 949, 53
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: 34
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 960, 53
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: 35
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1041, 43
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: 36
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1206, 25
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: 37
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1221, 45
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: 38
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1183, 45
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: 39
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 602, 10
+  size: 48, 7
+  orig: 48, 7
+  offset: 0, 0
+  index: 40
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1081, 45
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: 41
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1227, 25
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: 42
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1102, 45
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: 43
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 650, 21
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: 44
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 667, 43
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: 45
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 690, 43
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: 46
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1206, 1
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: 47
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1700, 1
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: 48
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1232, 1
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: 49
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1724, 1
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: 50
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1258, 1
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: 51
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1748, 1
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: 52
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 682, 1
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: 53
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 828, 1
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: 54
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 856, 1
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: 55
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 506, 1
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: 56
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 506, 33
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: 57
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1193, 31
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: 58
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 357, 54
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: 59
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 971, 53
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: 60
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 982, 53
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: 61
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1060, 21
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: 62
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1248, 25
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: 63
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1240, 45
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: 64
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1086, 1
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: 65
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 652, 1
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: 66
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1116, 1
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: 67
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 996, 1
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: 68
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 826, 53
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: 69
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 840, 53
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: 70
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 854, 53
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: 71
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1557, 39
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: 72
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1568, 39
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: 73
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1579, 39
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: 74
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1538, 54
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: 75
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1284, 1
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: 76
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1772, 1
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: 77
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1310, 1
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: 78
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1796, 1
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: 79
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1336, 1
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: 80
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 602, 19
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: 81
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1362, 1
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: 82
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 626, 19
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: 83
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1086, 33
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: 84
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1097, 33
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: 85
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 357, 1
+  size: 14, 64
+  orig: 14, 64
+  offset: 0, 0
+  index: 86
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1296, 45
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: 87
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1061, 43
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: 88
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1123, 45
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: 89
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1259, 45
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: 90
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1146, 1
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: 91
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1026, 1
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: 92
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1176, 1
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: 93
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1056, 1
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: 94
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1361, 25
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: 95
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1377, 25
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: 96
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1393, 25
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: 97
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1820, 1
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: 98
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1820, 15
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: 99
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1193, 17
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: 100
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1543, 39
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: 101
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1388, 1
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: 102
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 733, 29
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: 103
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1414, 1
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: 104
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 757, 29
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: 105
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1440, 1
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: 106
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 781, 29
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: 107
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1466, 1
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: 108
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 805, 29
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: 109
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1345, 25
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: 110
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1808, 25
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: 111
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1405, 53
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: 112
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1415, 53
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: 113
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1721, 53
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: 114
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1741, 52
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: 115
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1750, 52
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: 116
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1732, 51
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: 117
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 868, 53
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: 118
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 882, 53
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: 119
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 712, 1
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: 120
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 884, 1
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: 121
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 912, 1
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: 122
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 538, 1
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: 123
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 538, 33
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: 124
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 265, 55
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: 125
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 673, 21
+  size: 7, 18
+  orig: 7, 18
+  offset: 0, 0
+  index: 126
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1278, 45
+  size: 7, 18
+  orig: 7, 18
+  offset: 0, 0
+  index: 127
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1287, 45
+  size: 7, 18
+  orig: 7, 18
+  offset: 0, 0
+  index: 128
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 213, 59
+  size: 4, 38
+  orig: 4, 38
+  offset: 0, 0
+  index: 129
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1440, 25
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: 130
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1454, 25
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: 131
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1468, 25
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: 132
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1425, 25
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: 133
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1409, 25
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: 134
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 714, 29
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: 135
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 570, 1
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: 136
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 357, 17
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: 137
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1820, 29
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: 138
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1375, 40
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: 139
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 894, 53
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: 140
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 905, 53
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: 141
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 916, 53
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: 142
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1425, 53
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: 143
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1492, 1
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: 144
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 829, 29
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: 145
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1518, 1
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: 146
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 853, 29
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: 147
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1544, 1
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: 148
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 877, 29
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: 149
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1570, 1
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: 150
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 901, 29
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: 151
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1312, 45
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: 152
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1328, 43
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: 153
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1389, 40
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: 154
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 742, 1
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: 155
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 940, 1
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: 156
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 968, 1
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: 157
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1656, 39
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: 158
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1666, 39
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: 159
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1676, 39
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: 160
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1686, 39
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: 161
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1122, 36
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: 162
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1139, 37
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: 163
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 285, 55
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: 164
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 173, 59
+  size: 38, 4
+  orig: 38, 4
+  offset: 0, 0
+  index: 165
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1486, 39
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: 166
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1490, 52
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: 167
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1499, 39
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: 168
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1503, 52
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: 169
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1512, 39
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: 170
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1516, 52
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: 171
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1021, 21
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: 172
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1109, 17
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: 173
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 371, 54
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: 174
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 385, 54
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: 175
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1403, 40
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: 176
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1482, 25
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: 177
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1372, 53
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: 178
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1496, 25
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: 179
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1434, 53
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: 180
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1448, 53
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: 181
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1417, 40
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: 182
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1510, 25
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: 183
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1383, 53
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: 184
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1524, 25
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: 185
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1538, 25
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: 186
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1394, 53
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: 187
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1552, 25
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: 188
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1462, 54
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: 189
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1476, 54
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: 190
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1431, 40
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: 191
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1696, 39
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: 192
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1706, 39
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: 193
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1716, 39
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: 194
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1732, 40
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: 195
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1130, 37
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: 196
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1146, 37
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: 197
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 305, 55
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: 198
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1590, 39
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: 199
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1601, 39
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: 200
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1612, 39
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: 201
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1623, 39
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: 202
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1634, 39
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: 203
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1645, 39
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: 204
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 400, 17
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: 205
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 437, 1
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: 206
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1596, 1
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: 207
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 925, 29
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: 208
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1622, 1
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: 209
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 949, 29
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: 210
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1648, 1
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: 211
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 973, 29
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: 212
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1674, 1
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: 213
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 997, 21
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: 214
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1080, 21
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: 215
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1167, 37
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: 216
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1734, 34
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: 217
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1748, 34
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: 218
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1762, 34
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: 219
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1776, 34
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: 220
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1790, 34
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: 221
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1356, 59
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: 222
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1726, 39
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: 223
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1742, 40
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: 224
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1086, 17
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: 225
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1756, 40
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: 226
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1770, 40
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: 227
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1784, 40
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: 228
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 173, 1
+  size: 90, 27
+  orig: 90, 27
+  offset: 0, 0
+  index: 229
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 265, 1
+  size: 90, 25
+  orig: 90, 25
+  offset: 0, 0
+  index: 230
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1, 1
+  size: 170, 60
+  orig: 170, 60
+  offset: 0, 0
+  index: 231
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 457, 44
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: 232
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1328, 25
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: 233
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1080, 35
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: 234
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 733, 53
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: 235
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1525, 39
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: 236
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 423, 1
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: 237
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1566, 25
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: 238
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 325, 55
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: 239
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 253, 59
+  size: 4, 9
+  orig: 4, 9
+  offset: 0, 0
+  index: 240
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 749, 53
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: 241
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1529, 52
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: 242
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 682, 29
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: 243
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1580, 25
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: 244
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 339, 55
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: 245
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 698, 29
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: 246
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1594, 25
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: 247
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1361, 40
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: 248
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1181, 37
+  size: 4, 9
+  orig: 4, 9
+  offset: 0, 0
+  index: 249
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 765, 53
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: 250
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1534, 39
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: 251
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1759, 52
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: 252
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1765, 52
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: 253
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1771, 52
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: 254
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1742, 46
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: 255
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1756, 46
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: 256
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1770, 46
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: 257
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1784, 46
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: 258
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1798, 40
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: 259
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1804, 35
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: 260
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1810, 35
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: 261
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1804, 49
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: 262
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1816, 43
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: 263
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1818, 49
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: 264
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1553, 50
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: 265
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1559, 50
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: 266
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1565, 50
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: 267
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1571, 50
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: 268
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1577, 50
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: 269
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1583, 50
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: 270
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1589, 50
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: 271
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1595, 50
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: 272
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1601, 50
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: 273
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 173, 30
+  size: 90, 27
+  orig: 90, 27
+  offset: 0, 0
+  index: 274
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 265, 28
+  size: 90, 25
+  orig: 90, 25
+  offset: 0, 0
+  index: 275
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1608, 25
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: 276
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1328, 59
+  size: 12, 4
+  orig: 12, 4
+  offset: 0, 0
+  index: 277
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1445, 40
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: 278
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 781, 53
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: 279
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1622, 25
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: 280
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1636, 25
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: 281
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1650, 25
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: 282
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1342, 59
+  size: 12, 4
+  orig: 12, 4
+  offset: 0, 0
+  index: 283
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1459, 40
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: 284
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 796, 53
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: 285
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1664, 25
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: 286
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1678, 25
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: 287
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 811, 53
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: 288
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1692, 25
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: 289
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1706, 25
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: 290
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1720, 25
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: 291
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1153, 37
+  size: 12, 4
+  orig: 12, 4
+  offset: 0, 0
+  index: 292
+Sprite sheet for Basic Pack
+  rotate: true
+  xy: 1473, 40
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: 293
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1547, 54
+  size: 4, 9
+  orig: 4, 9
+  offset: 0, 0
+  index: 294
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1777, 52
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: 295
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1783, 52
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: 296
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1607, 50
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: 297
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1613, 50
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: 298
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1619, 50
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: 299
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1625, 50
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: 300
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1631, 50
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: 301
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1637, 50
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: 302
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1643, 50
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: 303
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1649, 50
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: 304
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1655, 50
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: 305
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1661, 50
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: 306
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1667, 50
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: 307
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1673, 50
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: 308
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1679, 50
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: 309
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1685, 50
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: 310
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1691, 50
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: 311
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1697, 50
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: 312
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1703, 50
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: 313
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1709, 50
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: 314
+Sprite sheet for Basic Pack
+  rotate: false
+  xy: 1715, 50
+  size: 4, 12
+  orig: 4, 12
+  offset: 0, 0
+  index: 315
