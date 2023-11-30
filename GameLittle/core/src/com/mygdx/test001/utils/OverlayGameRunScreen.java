@@ -98,7 +98,23 @@ public class OverlayGameRunScreen {
         /*touchPosition.set(Gdx.input.getX(), Gdx.input.getY(), 0);
         camera.unproject(touchPosition);*/
 
-        batch.draw(toolEmpty, camera.position.x - 240, camera.position.y - 110);
+        if (currentlyHoldingEmpty)
+            batch.draw(toolEmpty, camera.position.x - 240, camera.position.y - 110);
+        //Hoe
+        if (currentlyHoldingHoe)
+            batch.draw(toolHoe, camera.position.x - 240, camera.position.y - 110);
+        //Watering Can
+        if (currentlyHoldingWateringCan)
+            batch.draw(toolWateringCan, camera.position.x - 240, camera.position.y - 110);
+        //Axe
+        if (currentlyHoldingAxe)
+            batch.draw(toolAxe, camera.position.x - 240, camera.position.y - 110);
+        //Pickaxe
+        if (currentlyHoldingPickaxe)
+            batch.draw(toolPickaxe, camera.position.x - 240, camera.position.y - 110);
+        //Fishing Rod
+        if (currentlyHoldingFishingRod)
+            batch.draw(toolFishingRod, camera.position.x - 240, camera.position.y - 110);
 
         if (buttonToolIsClicked) {
             //Empty
